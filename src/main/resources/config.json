@@ -1,0 +1,15 @@
+{
+	"name":      "zabbix",
+	"filas": [
+		{
+			"name":  "fila1",
+			"notifier": "rocketchat",
+			"canal": "https://chat.rocket.br/hooks/mJKmvFetSpqyKnKmr/mveiEAtx87Hy5s8QmurXiHK8v5wDRxqN9jTr7jYXW9eWfqCx"
+		},
+		{
+			"name":  "fila2",
+			"notifier": "gmail",
+			"canal": "luizvm@gmail.com"
+		}
+	]
+}
