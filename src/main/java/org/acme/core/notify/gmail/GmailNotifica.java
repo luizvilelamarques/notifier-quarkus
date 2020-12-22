@@ -14,8 +14,8 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-import org.acme.core.CentralConfiguration;
 import org.acme.core.bean.Bean;
+import org.acme.core.impl.CentralConfiguration;
 import org.acme.core.notify.Notifier;
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 

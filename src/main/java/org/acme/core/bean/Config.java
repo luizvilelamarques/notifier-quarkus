@@ -2,6 +2,11 @@ package org.acme.core.bean;
 
 import java.util.List;
 
+/**configuração das filas para notificação.
+ * 
+ * @author Luiz
+ *
+ */
 public class Config {
 
 	private String name;

@@ -5,8 +5,8 @@ import java.util.List;
 import javax.inject.Named;
 import javax.inject.Singleton;
 
-import org.acme.core.Service;
 import org.acme.core.bean.Bean;
+import org.acme.core.sourceService.Service;
 
 @Named("hpsm")
 @Singleton

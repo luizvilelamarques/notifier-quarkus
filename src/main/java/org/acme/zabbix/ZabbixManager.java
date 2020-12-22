@@ -13,9 +13,9 @@ import javax.inject.Inject;
 import javax.inject.Named;
 import javax.inject.Singleton;
 
-import org.acme.core.CentralConfiguration;
-import org.acme.core.Service;
 import org.acme.core.bean.Bean;
+import org.acme.core.impl.CentralConfiguration;
+import org.acme.core.sourceService.Service;
 
 import com.google.common.base.Splitter;
 

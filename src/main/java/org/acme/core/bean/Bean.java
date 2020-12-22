@@ -1,6 +1,11 @@
 package org.acme.core.bean;
 
-public class Bean {
+/**
+ * bean base
+ * @author Luiz
+ *
+ */
+public abstract class Bean {
 
 	private String id;
 	private String fila;
